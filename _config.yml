@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: 'your awesome title'
-description: 'your web description'
-keywords: 'your web keywords, another keywords'
+title: 'Talk & Code'
+description: 'A relaxed place'
+keywords: 'Code,Cat&Life'
 url: 'https://LvxusNy.github.io' # your host
 repository: 'LvxusNy/LvxusNy.github.io'
 github_url: 'https://github.com/LvxusNy'
@@ -16,7 +16,7 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 
 # 博主
 author: true
-name: 'your awesome name'
+name: 'About me'
 NickName: 'your awesome nickname'
 webtitle: 'your awesome webtitle'
 bio: 'your awesome bio'
@@ -27,7 +27,7 @@ portraits: '/assets/profile.jpeg' # your portraits image file path
 # SNS
 SNS: true
 SNS-icon: #['facebook', 'weibo', 'QQ', 'github', 'Dribbble', 'twitter', 'instagram', 'weixin']
-  mail: 'mailto:abc@gmail.com'
+  mail: 'Lvxus.ying@gmail.com'
   weixin: '' # your wechat image file path
   QQ: '' # your QQ image file path
   weibo: ''
